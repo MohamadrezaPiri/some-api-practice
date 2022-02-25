@@ -1,0 +1,25 @@
+.fullCommentDiv {
+  width: 40rem;
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #a78bfa;
+  margin-bottom: 3rem;
+}
+
+h3 {
+  margin-bottom: 3rem;
+}
+
+
+.fullCommentDiv button{
+  color: #dc2626;
+  border: 1px solid #dc2626;
+}
+
+.fullCommentDiv button:hover{
+  color: white;
+  background-color: #dc2626;
+  border: 1px solid #dc2626;
+}

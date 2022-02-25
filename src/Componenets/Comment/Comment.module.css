@@ -1,0 +1,17 @@
+.commentDiv {
+  background-color: #a78bfa;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 12rem; 
+  cursor: pointer;
+}
+
+p {
+  padding-left: 20px;
+}
+
+p span{
+  font-weight: bold;
+}
